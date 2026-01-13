@@ -48,6 +48,6 @@
 
 ### ⚡ General
 
-* **[General CP Tricks](https://codeforces.com/blog/entry/48417)** A collection of heuristic tricks, C++ STL optimizations, and common patterns to speed up implementation and debugging.
+* **[General CP Tricks](https://codeforces.com/blog/entry/48417)** A collection of tricks
 
 ---
